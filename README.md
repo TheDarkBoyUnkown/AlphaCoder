@@ -43,9 +43,6 @@ A simple yet powerful Python terminal-based tool to **convert text into alphabet
    ```
 
 ---
-SUBSCRIBE ME ON YOUTUBE - https://youtube.com/@jakironlive?si=AHY7Hnzb6FRk_z8q
-ALSO MY CHANNEL - https://youtube.com/@hunterdark-k4m?si=hKWQh0yvZkBXo4Yg
----
 ## 🧪 Example
 
 ```
@@ -84,3 +81,7 @@ README.md          # Documentation (you’re reading it!)
 ## ✅ License
 
 This project is open-source and free to use under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+
+Subscribe me on youtube - https://youtube.com/@jakironlive
+For Termux learning - https://youtube.com/@hunterdark
