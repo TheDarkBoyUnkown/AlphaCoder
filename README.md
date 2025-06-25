@@ -34,7 +34,7 @@ A simple yet powerful Python terminal-based tool to **convert text into alphabet
 
 2. **Clone**  
    ```bash
-   gitclone https://github.com/TheDarkBoyUnkown/AlphaCoder.git
+   git clone https://github.com/TheDarkBoyUnkown/AlphaCoder.git
    ```
 
 3. **Run the Tool**  
