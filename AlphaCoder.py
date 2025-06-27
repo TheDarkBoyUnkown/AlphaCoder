@@ -23,9 +23,9 @@ def code_to_letter(code_str):
             num = int(part)
             if 1 <= num <= 26:
                 result.append(chr(num + 64))
-        else:
-            result.append(' ')
-    return ''.join(result)
+        elif part == '0':
+            result.append(' ')  # Optional: Treat 0 as space between words
+    return ' '.join(result)
 
 def main():
     while True:
