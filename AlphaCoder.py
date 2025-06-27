@@ -19,12 +19,12 @@ def letter_to_code(text):
 def code_to_letter(code_str):
     result = []
     for part in code_str.strip().split():
-        if part.isdigit():
+        if part == '0':
+            result.append(' ')  # Treat '0' as space
+        elif part.isdigit():
             num = int(part)
             if 1 <= num <= 26:
                 result.append(chr(num + 64))
-        elif part == '0':
-            result.append(' ')  # Optional: Treat 0 as space between words
     return ' '.join(result)
 
 def main():
