@@ -15,6 +15,9 @@ A simple yet powerful Python terminal-based tool to **convert text into alphabet
   Decode back any alphabetical code into plain English.  
   Example: `10 1 11 9 18` → `JAKIR`
 
+- 🔠 **leet speak**
+  convert text to leet speak
+  Example: `HI THERE` → `#1 7#3R3`
 - 🎨 **Colorful Terminal UI**  
   Designed for Termux (non-root) using `colorama` for a clean display.
 
